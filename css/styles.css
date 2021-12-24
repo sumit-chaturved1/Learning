@@ -1,0 +1,29 @@
+body{
+    background-color: #EAF6F6;
+}
+
+hr {
+    border-style:dotted;
+    border-top-style: none;
+    border-color: grey;
+    width: 5%;
+    border-width: 5px;
+    
+}
+h1{
+    color: #66BFBF;
+}
+h3{
+    color: #66BFBF;
+}
+h2{
+    color: #66BFBF;
+}
+img{
+    border-radius: 100%;
+    height: 5cm ;
+    width: 5cm;
+}
+#pfp:hover{
+    border-radius: 0%;
+}

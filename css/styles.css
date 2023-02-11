@@ -26,6 +26,6 @@ img{
     transition-duration:.2s;
 }
 #pfp:hover{
-    border-radius: 40%;
+    border-radius: 30%;
     transform:scale(1.05);
 }

@@ -27,4 +27,5 @@ img{
 }
 #pfp:hover{
     border-radius: 40%;
+    transform:scale(1.05);
 }

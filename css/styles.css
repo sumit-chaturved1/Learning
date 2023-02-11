@@ -23,7 +23,8 @@ img{
     border-radius: 100%;
     height: 5cm ;
     width: 5cm;
+    transition-duration:.2s;
 }
 #pfp:hover{
-    border-radius: 0%;
+    border-radius: 40%;
 }
